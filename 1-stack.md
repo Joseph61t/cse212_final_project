@@ -18,4 +18,6 @@
 ## Implementing The Stack
  In this [code](stack_undo.py) I will show how to add to a list of words, and then return to a previous version of that list, removing a single word at a time. Once you have gone over that code, you should try and implement that same idea, but instead of just going back, you should make yours able to go forwards as well. (Adding the words that were removed back onto the stack.)
 
+ (Hint, you need another stack.)
+
  Here is my [version](stack_undo_redo.py) of that code.
