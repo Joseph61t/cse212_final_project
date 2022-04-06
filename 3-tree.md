@@ -22,7 +22,7 @@ Trees are used mostly when you are going to be searching through the data a lot.
 
 ## Implementing A Tree
  In this [code](sort-tree.py) I will show how to make a tree. 
- Once you have gone over that code, try and add a find function, that would find the inputed number, and display the number of nodes gone through to find it. (Hint, do it looks simular to the display function.)
+ Once you have gone over that code, try and add a find function. This would find the inputed number, and display the number of nodes gone through to find it. (Hint, it looks simular to the display function.)
 
  Here is my [version](find-tree.py) of that code.
  
